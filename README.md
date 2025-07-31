@@ -36,7 +36,7 @@ This repository includes predictions and analysis files generated using:
 
 ### 🧪 Cagiada Functional Site Model
 
-All predictions in `ercc2_outputs.zip` were generated using the model from:
+All predictions in `ercc2_outputs` were generated using the model from:
 
 📎 [Google Colab Notebook – Cagiada Functional Site Model](https://colab.research.google.com/github/KULL-Centre/_2022_functional-sites-cagiada/blob/main/Functional_site_model.ipynb)
 
