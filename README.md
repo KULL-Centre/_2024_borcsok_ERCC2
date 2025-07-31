@@ -18,7 +18,7 @@ This repository includes predictions and analysis files generated using:
 
 ## 📁 File Structure
 
-- `ercc2_outputs.zip/`
+- `ercc2_outputs/`
   - `test_residue_predictions.csv`
   - `test_variant_features.csv`
   - `test_variant_predictions.csv`
