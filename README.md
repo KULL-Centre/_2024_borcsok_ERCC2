@@ -65,7 +65,7 @@ If you use this repository or its data, please cite the associated publication a
 - **Cite this article:**  
   Cagiada, M., Bottaro, S., Lindemose, S. *et al.* _Discovering functionally important sites in proteins_. **Nat Commun** **14**, 4175 (2023).  
   🌐 [https://doi.org/10.1038/s41467-023-39909-0](https://doi.org/10.1038/s41467-023-39909-0)  
-- 🧭 This model was used to generate residue- and variant‑level predictions (e.g., GEMME, RaSP, WCN) via the [Colab notebook](https://colab.research.google.com/github/KULL-Centre/_2022_functional-sites-cagiada/blob/main/Functional_site_model.ipynb).
+- 🧭 This model was used to generate residue- and variant‑level predictions via the [Colab notebook](https://colab.research.google.com/github/KULL-Centre/_2022_functional-sites-cagiada/blob/main/Functional_site_model.ipynb).
 
 ---
 
